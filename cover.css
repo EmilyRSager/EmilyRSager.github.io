@@ -118,7 +118,9 @@ body {
   font-weight: bold;
 }
 
-
+.cover-heading {
+  color: #002500;
+}
 /*
  * Footer
  */
